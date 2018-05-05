@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "B",
+        "A",
+        "A"
+    ],
+    
+    "key":
+    {
+        "B":
+        {
+            "item": "cwam:amethyst"
+        },
+        
+        "A":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "cwam:amethyst_shovel",
+        "count": 1
+    }
+}

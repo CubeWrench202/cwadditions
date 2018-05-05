@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "B B",
+        "B B"
+    ],
+    
+    "key":
+    {
+        "B":
+        {
+            "item": "cwam:sapphire"
+        }
+    },
+    
+    "result":
+    {
+        "item": "cwam:sapphire_boots",
+        "count": 1
+    }
+}

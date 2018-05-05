@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "BBB",
+        "B B",
+        "B B"
+    ],
+    
+    "key":
+    {
+        "B":
+        {
+            "item": "cwam:topaz"
+        }
+    },
+    
+    "result":
+    {
+        "item": "cwam:topaz_leggings",
+        "count": 1
+    }
+}

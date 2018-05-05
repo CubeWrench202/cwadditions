@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "B"
+    ],
+    
+    "key":
+    {
+        "B":
+        {
+            "item": "cwam:amethyst_block"
+        }
+    },
+    
+    "result":
+    {
+        "item": "cwam:amethyst",
+        "count": 9
+    }
+}

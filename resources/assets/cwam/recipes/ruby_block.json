@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "BBB",
+        "BBB",
+        "BBB"
+    ],
+    
+    "key":
+    {
+        "B":
+        {
+            "item": "cwam:ruby"
+        }
+    },
+    
+    "result":
+    {
+        "item": "cwam:ruby_block",
+        "count": 1
+    }
+}

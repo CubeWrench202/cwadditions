@@ -1,0 +1,16 @@
+[
+{
+  "modid": "cwam",
+  "name": "cwadditions",
+  "description": "Stuff that should be in vanilla MC.",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["CubeWrench202"],
+  "credits": "The Forge and FML guys.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "B B",
+        "B B"
+    ],
+    
+    "key":
+    {
+        "B":
+        {
+            "item": "cwam:ruby"
+        }
+    },
+    
+    "result":
+    {
+        "item": "cwam:ruby_boots",
+        "count": 1
+    }
+}

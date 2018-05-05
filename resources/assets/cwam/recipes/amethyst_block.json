@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "BBB",
+        "BBB",
+        "BBB"
+    ],
+    
+    "key":
+    {
+        "B":
+        {
+            "item": "cwam:amethyst"
+        }
+    },
+    
+    "result":
+    {
+        "item": "cwam:amethyst_block",
+        "count": 1
+    }
+}

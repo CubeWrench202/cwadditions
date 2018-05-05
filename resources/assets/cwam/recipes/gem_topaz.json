@@ -1,0 +1,9 @@
+{
+    "type": "smelting",
+    "ingredient": {
+        "item": "cwam:topaz_ore"
+    },
+    "result": "cwam:topaz",
+    "experience": 0.4,
+    "cookingtime": 5
+}

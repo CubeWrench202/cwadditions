@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "BBB",
+        " A ",
+        " A "
+    ],
+    
+    "key":
+    {
+        "B":
+        {
+            "item": "cwam:ruby"
+        },
+        
+        "A":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "cwam:ruby_pickaxe",
+        "count": 1
+    }
+}

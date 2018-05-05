@@ -1,0 +1,9 @@
+{
+    "type": "smelting",
+    "ingredient": {
+        "item": "cwam:amethyst_ore"
+    },
+    "result": "cwam:amethyst",
+    "experience": 0.4,
+    "cookingtime": 5
+}

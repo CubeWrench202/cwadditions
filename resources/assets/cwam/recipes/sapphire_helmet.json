@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "BBB",
+        "B B"
+    ],
+    
+    "key":
+    {
+        "B":
+        {
+            "item": "cwam:sapphire"
+        }
+    },
+    
+    "result":
+    {
+        "item": "cwam:sapphire_helmet",
+        "count": 1
+    }
+}

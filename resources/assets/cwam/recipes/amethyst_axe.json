@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "BB",
+        "BA",
+        " A"
+    ],
+    
+    "key":
+    {
+        "B":
+        {
+            "item": "cwam:amethyst"
+        },
+        
+        "A":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "cwam:amethyst_axe",
+        "count": 1
+    }
+}

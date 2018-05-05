@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "B",
+        "B",
+        "A"
+    ],
+    
+    "key":
+    {
+        "B":
+        {
+            "item": "cwam:topaz"
+        },
+        
+        "A":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "cwam:topaz_sword",
+        "count": 1
+    }
+}

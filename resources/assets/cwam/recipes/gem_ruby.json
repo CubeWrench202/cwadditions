@@ -1,0 +1,9 @@
+{
+    "type": "smelting",
+    "ingredient": {
+        "item": "cwam:ruby_ore"
+    },
+    "result": "cwam:ruby",
+    "experience": 0.4,
+    "cookingtime": 5
+}

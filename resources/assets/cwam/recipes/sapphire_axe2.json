@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "BB",
+        "AB",
+        "A "
+    ],
+    
+    "key":
+    {
+        "B":
+        {
+            "item": "cwam:sapphire"
+        },
+        
+        "A":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "cwam:sapphire_axe",
+        "count": 1
+    }
+}
